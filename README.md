@@ -33,7 +33,7 @@ Hey there! I'm Farah Fliss, a passionate CS Engineering student from Tunisia. I 
 **Programming**
 - 💻 Skilled in C and Python 
 - :desktop_computer: Trained in C++ 
-- :gear: Familiar with Rust 
+- :gear: Familiar with Rust  
 **Embedded Systems**
 - :memo: Hardware Description Languages : VHDL 
 - :electric_plug: Embedded Platforms : Arduino, STM32, Raspberry Pi, Tiva C Series
